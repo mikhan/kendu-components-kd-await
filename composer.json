@@ -1,0 +1,11 @@
+{
+    "name": "kendu/components",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Jorge Rojas López",
+            "email": "arq.rojas@khoadro.com"
+        }
+    ],
+    "require": {}
+}
